@@ -416,3 +416,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Visual Studio Dingus Files
+Ray\ Tracing\ in\ One\ Weekend.sln
+Ray\ Tracing\ in\ One\ Weekend.vcxproj
+Ray\ Tracing\ in\ One\ Weekend.vcxproj.filters
